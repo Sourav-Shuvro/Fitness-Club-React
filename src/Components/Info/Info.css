@@ -1,0 +1,50 @@
+.info-header p{
+    margin: 0;
+}
+.w-h-a{
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+    margin: 20px 0px;
+    background-color: rgb(229, 239, 244);
+    border-radius: 5px;
+}
+.w-h-a h3{
+    margin: 0;
+}
+.break-time {
+    padding: 15px 5px;
+    background-color: rgb(229, 239, 244);
+    display: flex;
+    justify-content: space-between;
+    border-radius: 5px;
+}
+.e-time{
+    background-color: rgb(229, 239, 244);
+    padding: 15px 5px;
+    border-radius: 5px;
+}
+.b-time{
+    background-color: rgb(229, 239, 244);
+    padding: 15px 5px;
+    border-radius: 5px;
+}
+.break-time button{
+    border-radius: 50%;
+    border: none;
+    background-color: white;
+    padding: 5px;
+}
+.break-time button:focus{
+    background-color: dodgerblue;
+    color: white;
+}
+.details button{
+    width: 100%;
+    padding: 10px 0px;
+    background-color: dodgerblue;
+    border: none;
+    color: white;
+    font-size: 20px;
+    border-radius: 10px;
+}

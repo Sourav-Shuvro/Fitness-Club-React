@@ -1,0 +1,38 @@
+.container{
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+}
+.main-container{
+    background-color: rgb(229, 239, 244);
+    padding: 40px 40px;
+}
+.exercise{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 25px;
+}
+.info{
+    position: fixed;
+    right: 0;
+    padding: 15px;
+}
+@media screen and (max-width:560px){
+    .container{
+        display: flex;
+        flex-direction: column;
+    }
+    .main-container{
+        padding: 10px;
+    }
+    .main-container img{
+        width: 100%;
+    }
+    .exercise{
+        display: grid;
+        grid-template-columns: repeat(1,1fr);
+        column-gap: 10px;
+    }
+    .info{
+        position: relative;
+    }
+}

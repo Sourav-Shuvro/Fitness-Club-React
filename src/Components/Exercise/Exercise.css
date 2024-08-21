@@ -1,0 +1,28 @@
+.item-container{
+    background-color: white;
+    padding: 20px;
+    border-radius: 20px;
+}
+.item-container p{
+    margin: 10px 0px;
+}
+.item-container img{
+    height: 150px;
+    width: 250px;
+    border-radius: 10px;
+}
+.item-container button{
+    width: 100%;
+    background-color: dodgerblue;
+    color: white;
+    padding: 10px 0px;
+    border: none;
+    border-radius: 5px;
+    font-size: 20px;
+}
+.item-container button:focus{
+    background-color: lightseagreen;
+}
+.age-time{
+    color: dodgerblue;
+}

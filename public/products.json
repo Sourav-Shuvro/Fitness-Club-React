@@ -1,0 +1,92 @@
+[
+    {
+        "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+        "name": "Nordic Track Commercial",
+        "highlights":"Sleek and sexy design. 16 inch touchscreen display. Magnetic resistance done right. Smooth rowing display.",
+        "price": 420,
+        "ratings": 4,
+        "age":"20-25",
+        "time": 45,
+        "img": "./images/1719636879836.jpeg"
+    },
+    {
+        "id": "13cbc7ed-a61b-4883-9d42-82d7d8642b86",
+        "name": "Horizon Treadmil",
+        "highlights":"Sleek and sexy design. 16 inch touchscreen display. Magnetic resistance done right. Smooth rowing display.",
+        "price": 196,
+        "ratings": 5,
+        "age":"20-25",
+        "time": 60,
+        "img": "./images/1719636879841.jpg"
+    },
+    {
+        "id": "307f166f-1d04-4573-bc37-2f461ea9d4f7",
+        "name": "Proton Indoor Exercise Bike",
+        "highlights":"Sleek and sexy design. 16 inch touchscreen display. Magnetic resistance done right. Smooth rowing display.",
+        "price": 245,
+        "ratings": 4,
+        "age":"20-25",
+        "time": 60,
+        "img": "./images/1719636879843.jpg"
+    },
+    {
+        "id": "4bf9798f-63bc-4a83-b0c6-6a3b816fe922",
+        "name": "Concept To Row Erg",
+        "highlights":"Sleek and sexy design. 16 inch touchscreen display. Magnetic resistance done right. Smooth rowing display.",
+        "price": 229,
+        "ratings": 5,
+        "age":"20-25",
+        "time": 45,
+        "img": "./images/1719636879845.webp"
+    },
+    {
+        "id": "9496d72b-04ec-41f8-9bc3-0a7c9697be8e",
+        "name": "Titan Fan Bike",
+        "highlights":"Sleek and sexy design. 16 inch touchscreen display. Magnetic resistance done right. Smooth rowing display.",
+        "price": 287,
+        "ratings": 4,
+        "age":"20-25",
+        "time": 30,
+        "img": "./images/1719636879848.jpeg"
+    },
+    {
+        "id": "6e5593d3-557b-43cf-8dab-a5140faedfb0",
+        "name": "Cardio Machine",
+        "highlights":"Sleek and sexy design. 16 inch touchscreen display. Magnetic resistance done right. Smooth rowing display.",
+        "price": 138,
+        "ratings": 3,
+        "age":"20-25",
+        "time": 60,
+        "img": "./images/1719636879852.jpeg"
+    },
+    {
+        "id": "9c0c13c2-54e4-4001-809b-afbd9d84037d",
+        "highlights":"Sleek and sexy design. 16 inch touchscreen display. Magnetic resistance done right. Smooth rowing display.",
+        "name": "Assault Runner Pro",
+        "price": 226,
+        "ratings": 4,
+        "age":"20-25",
+        "time": 40,
+        "img": "./images/1719636879854.jpeg"
+    },
+    {
+        "id": "c9d1f410-d28f-49d9-9b01-d759b5acbeea",
+        "name":"Horizon EX-59 Elliptical",
+        "highlights":"Sleek and sexy design. 16 inch touchscreen display. Magnetic resistance done right. Smooth rowing display.",
+        "price": 319,
+        "ratings": 4,
+        "age":"20-25",
+        "time": 30,
+        "img": "./images/1719636879856.jpg"
+    },
+    {
+        "id": "1564a06b-692f-4f2e-8413-9c8a1cc2da77",
+        "name": "Hydrow Connected Router",
+        "highlights":"Sleek and sexy design. 16 inch touchscreen display. Magnetic resistance done right. Smooth rowing display.",
+        "price": 600,
+        "ratings": 4.2,
+        "age":"20-25",
+        "time": 45,
+        "img": "./images/1719636879858.jpeg"
+    }
+]
